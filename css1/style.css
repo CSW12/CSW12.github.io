@@ -1,5 +1,5 @@
 .profile-pic {max-width:100%;}
-h4{color: green}
+h3{color: green}
 .custom-progress-bar-pink{
 background-color:#b22a73;}
 
@@ -21,3 +21,5 @@ p{
 .profile-title{font-family: 'Srisakdi', cursive;}
 .profile-text{font-family: 'Lato', sans-serif;}
 .profile {font-family: 'Pacifico', cursive;}
+.green-title {color: green}
+.blue-title{color: #4292f4}
